@@ -13,4 +13,5 @@ To run this project locally, follow these steps:
    git clone https://github.com/pritamkumarbishwas/login_backend.git
    cd login_backend
    npm install
+   npm run dev
    
